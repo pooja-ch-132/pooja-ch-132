@@ -172,7 +172,7 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pooja-ch-132&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pooja-ch-132&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
