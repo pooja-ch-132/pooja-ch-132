@@ -160,13 +160,11 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
-<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pooja-ch-132&theme=tokyo-night"/>
 
-</div>
+![Snake animation](https://github.com/pooja-ch-132/pooja-ch-132/blob/output/github-contribution-grid-snake.svg) 
 
 ---
 
