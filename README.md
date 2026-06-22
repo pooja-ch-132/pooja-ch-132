@@ -9,6 +9,17 @@
 </div>
 
 ---
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=pooja-ch-132&label=Profile+Views&color=blueviolet&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/pooja-ch-132?label=Followers&style=for-the-badge)
+
+![](https://img.shields.io/github/stars/pooja-ch-132?affiliations=OWNER&style=for-the-badge)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
@@ -182,16 +193,44 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/poojitha-chougani-554991291/">
+<a href="https://www.linkedin.com/in/poojitha-chougani-554991291/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pooja-ch-132" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:poojithachougani@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/pooja-ch-132">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://x.com/Poojichougani" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/28855031/poojitha-chougani" target="_blank">
+<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+<a href="https://www.quora.com/profile/Pooja-9388/" target="_blank">
+<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
+</a>
+
+<a href="https://www.reddit.com/user/PuzzleheadedOkra3088/" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/pooja_here_76/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://in.pinterest.com/poojilife/" target="_blank">
+<img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/dn6ffMGGW" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </p>
