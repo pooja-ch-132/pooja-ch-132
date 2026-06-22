@@ -273,22 +273,15 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 ---
 
-## ✨ Developer Motto
-
-> "Learn. Build. Improve. Repeat."
-
----
+## ✨ Developer Mindset
 
 <div align="center">
 
-### 👀 Profile Visitors
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-![](https://komarev.com/ghpvc/?username=pooja-ch-132&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+the+Future+One+Commit+at+a+Time.;Salesforce+Developer+%7C+Data+Analytics+%7C+AI+Enthusiast.;Passionate+about+Learning+and+Innovation." />
 
 </div>
-
 ---
-
-### 🔎 Recruiter Keywords
-
-`Salesforce Developer` • `Java Developer` • `ReactJS Developer` • `Python Developer` • `Data Analyst` • `Machine Learning` • `AI Enthusiast` • `SQL Developer` • `Streamlit Developer` • `Generative AI` • `AI Agents` • `Full Stack Developer` • `Software Engineer`
