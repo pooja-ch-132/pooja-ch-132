@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 💻 Salesforce Developer | Data Analytics Enthusiast | AI & ML Learner | Java Full Stack Developer
+### Data Analytics Enthusiast | AI & ML Learner | Java Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Salesforce+Developer;Data+Analytics+Enthusiast;AI+%26+Machine+Learning+Learner;Java+Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;AI+%26+Machine+Learning+Learner;Java+Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -26,8 +26,6 @@
 🎓 B.Tech Computer Science Engineering Student
 
 🏫 Malla Reddy University, Hyderabad
-
-☁️ Salesforce Developer
 
 📊 Data Analytics Enthusiast
 
@@ -57,10 +55,6 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Salesforce
-
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### Database
 
@@ -239,8 +233,6 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 ## 🎯 Current Focus
 
-✔ Salesforce Development
-
 ✔ Data Analytics
 
 ✔ Machine Learning
@@ -281,7 +273,7 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+the+Future+One+Commit+at+a+Time.;Salesforce+Developer+%7C+Data+Analytics+%7C+AI+Enthusiast.;Passionate+about+Learning+and+Innovation." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+the+Future+One+Commit+at+a+Time.;Data+Analytics+%7C+AI+Enthusiast.;Passionate+about+Learning+and+Innovation." />
 
 </div>
 ---
