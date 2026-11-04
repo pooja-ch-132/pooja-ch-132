@@ -83,74 +83,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-### ❤️ Heart-Risk Analyzer
-
-A Machine Learning and Data Analytics project focused on predicting heart disease risk among Indian youth.
-
-🔹 Analyzed 5000+ health records
-
-🔹 Performed Data Cleaning, EDA & Feature Engineering
-
-🔹 Achieved 85% Prediction Accuracy
-
-🔹 Built Interactive Streamlit Dashboard
-
-🔹 Generated Real-Time Risk Predictions
-
-**Tech Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, Streamlit, Machine Learning
-
----
-
-### 🎓 Mind Matrix
-
-A Java Full Stack Educational Platform designed to provide study materials, mock tests, and learning resources.
-
-🔹 Integrated MySQL Database
-
-🔹 Implemented CRUD Operations
-
-🔹 Optimized Database Queries
-
-🔹 User-Friendly Learning Experience
-
-**Tech Used:** Java, MySQL, HTML, CSS
-
----
-
-### 🎭 Legacy Talks
-
-A ReactJS-based application featuring customizable avatars and engaging user interactions.
-
-🔹 Modern UI Design
-
-🔹 Interactive User Experience
-
-🔹 Responsive Layout
-
-**Tech Used:** ReactJS, HTML, CSS
-
----
-
-## 📜 Certifications
-
-🏆 JPMorgan Chase & Co. Software Engineering Job Simulation
-
-🏆 Infosys Springboard Virtual Internship
-
-🏆 NPTEL - Introduction to Internet of Things
-
-🏆 Pearson MePro Level 10 English Certification
-
-🏆 Coursera - Introduction to Python Programming
-
-🏆 Coursera - Python Basics: Selection and Iteration
-
-🏆 Google & Kaggle AI Agents Intensive Vibe Coding Program
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -225,40 +157,6 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 ---
 
-## 🎯 Current Focus
-
-✔ Data Analytics
-
-✔ Machine Learning
-
-✔ Artificial Intelligence
-
-✔ Generative AI
-
-✔ AI Agents
-
-✔ Full Stack Development
-
-✔ Open Source Contributions
-
----
-
-## 💡 Professional Strengths
-
-✅ Problem Solving
-
-✅ Team Collaboration
-
-✅ Communication Skills
-
-✅ Adaptability
-
-✅ Time Management
-
-✅ Continuous Learning
-
----
-
 ## ✨ Developer Mindset
 
 <div align="center">
@@ -267,7 +165,7 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+the+Future+One+Commit+at+a+Time.;Data+Analytics+%7C+AI+Enthusiast.;Passionate+about+Learning+and+Innovation." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+the+Future+One+Commit+at+a+Time.;Data+Analytics+%7C+AI+Enthusiast.;Open+Source+Contributions." />
 
 </div>
 ---
