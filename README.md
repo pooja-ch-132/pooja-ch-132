@@ -153,13 +153,10 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pooja-ch-132&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja-ch-132&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
+</p>
 
 ---
 
