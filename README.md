@@ -183,11 +183,9 @@ A ReactJS-based application featuring customizable avatars and engaging user int
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pooja-ch-132&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pooja-ch-132&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 ---
 ## 🌐 Connect With Me
