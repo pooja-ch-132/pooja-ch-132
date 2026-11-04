@@ -2,20 +2,7 @@
 
 <div align="center">
 
-### Data Analytics Enthusiast | AI & ML Learner | Java Full Stack Developer
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Data+Analytics+Enthusiast;AI+%26+Machine+Learning+Learner;Java+Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-</div>
-
----
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=pooja-ch-132&label=Profile+Views&color=blueviolet&style=for-the-badge)
-
-![](https://img.shields.io/github/followers/pooja-ch-132?label=Followers&style=for-the-badge)
-
-![](https://img.shields.io/github/stars/pooja-ch-132?affiliations=OWNER&style=for-the-badge)
 
 </div>
 
@@ -117,6 +104,17 @@
 </p>
 
 ---
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=pooja-ch-132&label=Profile+Views&color=blueviolet&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/pooja-ch-132?label=Followers&style=for-the-badge)
+
+![](https://img.shields.io/github/stars/pooja-ch-132?affiliations=OWNER&style=for-the-badge)
+
+</div>
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -168,4 +166,3 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+the+Future+One+Commit+at+a+Time.;Data+Analytics+%7C+AI+Enthusiast.;Open+Source+Contributions." />
 
 </div>
----
