@@ -104,6 +104,7 @@
 </p>
 
 ---
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=pooja-ch-132&label=Profile+Views&color=blueviolet&style=for-the-badge)
@@ -113,6 +114,7 @@
 ![](https://img.shields.io/github/stars/pooja-ch-132?affiliations=OWNER&style=for-the-badge)
 
 </div>
+
 ---
 
 ## 🌐 Connect With Me
